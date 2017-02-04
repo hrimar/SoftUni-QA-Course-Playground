@@ -2,4 +2,4 @@ Name 	Money-EUR	Date
 Peter 250 01-02-2017
 Martin 415 03-02-2017
 Kamen 215 04-02-2017
-Miro 120 05-05-2017
+Miro 120 05-02-2017
